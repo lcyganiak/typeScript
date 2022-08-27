@@ -1,0 +1,4 @@
+Zaczynamy prace od szczegółu do ogółu. Zaczynamy od enum, przez iterfacy po stworzenie class
+
+1. Tworzymy enum cukier, poczym importujemy go do wszystkich interface
+2 Tworzymy interfacy pokolejy od najbardziesz szczgółowego na najogólniejszego, tj. najpierw interface spodu i nadzienia, a póxniej interface całego ciasta.
